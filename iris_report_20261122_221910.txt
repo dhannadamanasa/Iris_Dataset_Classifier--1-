@@ -1,0 +1,10 @@
+# Iris Classifier Report
+
+Generated: 2026-11-22T22:19:10
+Total records: 5
+
+1. Setosa | Confidence: 100.0% | Measurements: sepal length=5.1, sepal width=3.5, petal length=1.4, petal width=0.2
+2. Setosa | Confidence: 100.0% | Measurements: sepal length=5.1, sepal width=3.5, petal length=1.4, petal width=0.2
+3. Setosa | Confidence: 100.0% | Measurements: sepal length=5.1, sepal width=3.5, petal length=1.4, petal width=0.2
+4. Setosa | Confidence: 100.0% | Measurements: sepal length=5.1, sepal width=3.5, petal length=1.4, petal width=0.2
+5. Setosa | Confidence: 100.0% | Measurements: sepal length=5.1, sepal width=3.5, petal length=1.4, petal width=0.2
